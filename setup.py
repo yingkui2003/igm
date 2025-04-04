@@ -37,7 +37,7 @@ setup(
         "scipy",
         "netCDF4==1.6.0",
         "xarray",
-        "rasterio",
+        "rasterio==1.3.1",
         "pyproj",
         "geopandas",
         "oggm",
